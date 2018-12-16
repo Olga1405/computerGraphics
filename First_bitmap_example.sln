@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "First_bitmap_example", "First_bitmap_example\First_bitmap_example.csproj", "{CE15FE1D-627D-4364-9B0A-3589A2FE165D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CE15FE1D-627D-4364-9B0A-3589A2FE165D}.Debug|x86.ActiveCfg = Debug|x86
+		{CE15FE1D-627D-4364-9B0A-3589A2FE165D}.Debug|x86.Build.0 = Debug|x86
+		{CE15FE1D-627D-4364-9B0A-3589A2FE165D}.Release|x86.ActiveCfg = Release|x86
+		{CE15FE1D-627D-4364-9B0A-3589A2FE165D}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

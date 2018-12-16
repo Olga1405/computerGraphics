@@ -1,0 +1,7 @@
+C:\Users\Митяй\Desktop\учебники\KG\4.3.15\First_bitmap_example\bin\Release\First_bitmap_example.exe
+C:\Users\Митяй\Desktop\учебники\KG\4.3.15\First_bitmap_example\bin\Release\First_bitmap_example.pdb
+C:\Users\Митяй\Desktop\учебники\KG\4.3.15\First_bitmap_example\obj\x86\Release\First_bitmap_example.Form1.resources
+C:\Users\Митяй\Desktop\учебники\KG\4.3.15\First_bitmap_example\obj\x86\Release\First_bitmap_example.Properties.Resources.resources
+C:\Users\Митяй\Desktop\учебники\KG\4.3.15\First_bitmap_example\obj\x86\Release\First_bitmap_example.csproj.GenerateResource.Cache
+C:\Users\Митяй\Desktop\учебники\KG\4.3.15\First_bitmap_example\obj\x86\Release\First_bitmap_example.exe
+C:\Users\Митяй\Desktop\учебники\KG\4.3.15\First_bitmap_example\obj\x86\Release\First_bitmap_example.pdb

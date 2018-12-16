@@ -1,0 +1,70 @@
+c:\users\svetlana\documents\visual studio 2010\Projects\First_bitmap_example\First_bitmap_example\bin\Debug\First_bitmap_example.exe
+c:\users\svetlana\documents\visual studio 2010\Projects\First_bitmap_example\First_bitmap_example\bin\Debug\First_bitmap_example.pdb
+c:\users\svetlana\documents\visual studio 2010\Projects\First_bitmap_example\First_bitmap_example\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\svetlana\documents\visual studio 2010\Projects\First_bitmap_example\First_bitmap_example\obj\x86\Debug\First_bitmap_example.Form1.resources
+c:\users\svetlana\documents\visual studio 2010\Projects\First_bitmap_example\First_bitmap_example\obj\x86\Debug\First_bitmap_example.Properties.Resources.resources
+c:\users\svetlana\documents\visual studio 2010\Projects\First_bitmap_example\First_bitmap_example\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\svetlana\documents\visual studio 2010\Projects\First_bitmap_example\First_bitmap_example\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\svetlana\documents\visual studio 2010\Projects\First_bitmap_example\First_bitmap_example\obj\x86\Debug\First_bitmap_example.exe
+c:\users\svetlana\documents\visual studio 2010\Projects\First_bitmap_example\First_bitmap_example\obj\x86\Debug\First_bitmap_example.pdb
+C:\Users\Митяй\Desktop\First_bitmap_example\First_bitmap_example\obj\x86\Debug\First_bitmap_example.exe
+C:\Users\Митяй\Desktop\First_bitmap_example\First_bitmap_example\obj\x86\Debug\First_bitmap_example.pdb
+C:\Users\Митяй\Desktop\First_bitmap_example\First_bitmap_example\bin\Debug\First_bitmap_example.exe
+C:\Users\Митяй\Desktop\First_bitmap_example\First_bitmap_example\bin\Debug\First_bitmap_example.pdb
+C:\Users\Митяй\Desktop\First_bitmap_example\First_bitmap_example\obj\x86\Debug\First_bitmap_example.Form1.resources
+C:\Users\Митяй\Desktop\First_bitmap_example\First_bitmap_example\obj\x86\Debug\First_bitmap_example.Properties.Resources.resources
+C:\Users\Митяй\Desktop\First_bitmap_example\First_bitmap_example\obj\x86\Debug\First_bitmap_example.csproj.GenerateResource.Cache
+C:\Users\Митяй\Desktop\First_bitmap_example\First_bitmap_example\obj\x86\Debug\First_bitmap_example.csprojResolveAssemblyReference.cache
+C:\Users\Митяй\Desktop\KG\4.3.15\First_bitmap_example\obj\x86\Debug\First_bitmap_example.exe
+C:\Users\Митяй\Desktop\KG\4.3.15\First_bitmap_example\obj\x86\Debug\First_bitmap_example.pdb
+C:\Users\Митяй\Desktop\учебники\KG\4.3.15\First_bitmap_example\obj\x86\Debug\First_bitmap_example.exe
+C:\Users\Митяй\Desktop\учебники\KG\4.3.15\First_bitmap_example\obj\x86\Debug\First_bitmap_example.pdb
+C:\Users\Митяй\Desktop\учебники\KG\4.3.15\First_bitmap_example\bin\Debug\First_bitmap_example.exe
+C:\Users\Митяй\Desktop\учебники\KG\4.3.15\First_bitmap_example\bin\Debug\First_bitmap_example.pdb
+C:\Users\Митяй\Desktop\учебники\KG\4.3.15\First_bitmap_example\obj\x86\Debug\First_bitmap_example.csprojResolveAssemblyReference.cache
+C:\Users\Митяй\Desktop\учебники\KG\4.3.15\First_bitmap_example\obj\x86\Debug\First_bitmap_example.Form1.resources
+C:\Users\Митяй\Desktop\учебники\KG\4.3.15\First_bitmap_example\obj\x86\Debug\First_bitmap_example.Properties.Resources.resources
+C:\Users\Митяй\Desktop\учебники\KG\4.3.15\First_bitmap_example\obj\x86\Debug\First_bitmap_example.csproj.GenerateResource.Cache
+C:\Users\Митяй\Desktop\учебники\KG\15.3.15\First_bitmap_example\obj\x86\Debug\First_bitmap_example.exe
+C:\Users\Митяй\Desktop\учебники\KG\15.3.15\First_bitmap_example\obj\x86\Debug\First_bitmap_example.pdb
+C:\Users\Митяй\Desktop\учебники\KG\15.3.15\First_bitmap_example\bin\Debug\First_bitmap_example.exe
+C:\Users\Митяй\Desktop\учебники\KG\15.3.15\First_bitmap_example\bin\Debug\First_bitmap_example.pdb
+C:\Users\Митяй\Desktop\учебники\KG\15.3.15\First_bitmap_example\obj\x86\Debug\First_bitmap_example.csprojResolveAssemblyReference.cache
+C:\Users\Митяй\Desktop\учебники\KG\15.3.15\First_bitmap_example\obj\x86\Debug\First_bitmap_example.Form1.resources
+C:\Users\Митяй\Desktop\учебники\KG\15.3.15\First_bitmap_example\obj\x86\Debug\First_bitmap_example.Properties.Resources.resources
+C:\Users\Митяй\Desktop\учебники\KG\15.3.15\First_bitmap_example\obj\x86\Debug\First_bitmap_example.csproj.GenerateResource.Cache
+C:\Users\Митяй\Desktop\учебники\KG\ImageBrowser\First_bitmap_example\obj\x86\Debug\First_bitmap_example.exe
+C:\Users\Митяй\Desktop\учебники\KG\ImageBrowser\First_bitmap_example\obj\x86\Debug\First_bitmap_example.pdb
+C:\Users\Митяй\Desktop\учебники\KG\ImageBrowser\First_bitmap_example\bin\Debug\First_bitmap_example.exe
+C:\Users\Митяй\Desktop\учебники\KG\ImageBrowser\First_bitmap_example\bin\Debug\First_bitmap_example.pdb
+C:\Users\Митяй\Desktop\учебники\KG\ImageBrowser\First_bitmap_example\obj\x86\Debug\First_bitmap_example.csprojResolveAssemblyReference.cache
+C:\Users\Митяй\Desktop\учебники\KG\ImageBrowser\First_bitmap_example\obj\x86\Debug\First_bitmap_example.Form1.resources
+C:\Users\Митяй\Desktop\учебники\KG\ImageBrowser\First_bitmap_example\obj\x86\Debug\First_bitmap_example.Properties.Resources.resources
+C:\Users\Митяй\Desktop\учебники\KG\ImageBrowser\First_bitmap_example\obj\x86\Debug\First_bitmap_example.csproj.GenerateResource.Cache
+C:\Users\Дмитрий\Desktop\ImageBrowser\First_bitmap_example\obj\x86\Debug\First_bitmap_example.exe
+C:\Users\Дмитрий\Desktop\ImageBrowser\First_bitmap_example\obj\x86\Debug\First_bitmap_example.pdb
+C:\Users\Дмитрий\Desktop\ImageBrowser\First_bitmap_example\bin\Debug\First_bitmap_example.exe
+C:\Users\Дмитрий\Desktop\ImageBrowser\First_bitmap_example\bin\Debug\First_bitmap_example.pdb
+C:\Users\Дмитрий\Desktop\ImageBrowser\First_bitmap_example\obj\x86\Debug\First_bitmap_example.csprojResolveAssemblyReference.cache
+C:\Users\Дмитрий\Desktop\ImageBrowser\First_bitmap_example\obj\x86\Debug\First_bitmap_example.Form1.resources
+C:\Users\Дмитрий\Desktop\ImageBrowser\First_bitmap_example\obj\x86\Debug\First_bitmap_example.Properties.Resources.resources
+C:\Users\Дмитрий\Desktop\ImageBrowser\First_bitmap_example\obj\x86\Debug\First_bitmap_example.csproj.GenerateResource.Cache
+C:\Documents and Settings\tva\Рабочий стол\ImageBrowser\First_bitmap_example\obj\x86\Debug\First_bitmap_example.exe
+C:\Documents and Settings\tva\Рабочий стол\ImageBrowser\First_bitmap_example\obj\x86\Debug\First_bitmap_example.pdb
+C:\Documents and Settings\tva\Рабочий стол\ImageBrowser\First_bitmap_example\bin\Debug\First_bitmap_example.exe
+C:\Documents and Settings\tva\Рабочий стол\ImageBrowser\First_bitmap_example\bin\Debug\First_bitmap_example.pdb
+C:\Documents and Settings\tva\Рабочий стол\ImageBrowser\First_bitmap_example\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\tva\Рабочий стол\ImageBrowser\First_bitmap_example\obj\x86\Debug\First_bitmap_example.Form1.resources
+C:\Documents and Settings\tva\Рабочий стол\ImageBrowser\First_bitmap_example\obj\x86\Debug\First_bitmap_example.Properties.Resources.resources
+C:\Documents and Settings\tva\Рабочий стол\ImageBrowser\First_bitmap_example\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\tva\Рабочий стол\ImageBrowser\First_bitmap_example\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Admin\Мои документы\Загрузки\ImageBrowserR\ImageBrowserR\First_bitmap_example\obj\x86\Debug\First_bitmap_example.exe
+C:\Documents and Settings\Admin\Мои документы\Загрузки\ImageBrowserR\ImageBrowserR\First_bitmap_example\obj\x86\Debug\First_bitmap_example.pdb
+C:\Users\pc\Desktop\не мои программы\ImageBrowserR\ImageBrowserR\First_bitmap_example\obj\x86\Debug\First_bitmap_example.exe
+C:\Users\pc\Desktop\не мои программы\ImageBrowserR\ImageBrowserR\First_bitmap_example\obj\x86\Debug\First_bitmap_example.pdb
+C:\Users\pc\Desktop\не мои программы\ImageBrowserR\ImageBrowserR\First_bitmap_example\bin\Debug\First_bitmap_example.exe
+C:\Users\pc\Desktop\не мои программы\ImageBrowserR\ImageBrowserR\First_bitmap_example\bin\Debug\First_bitmap_example.pdb
+C:\Users\pc\Desktop\не мои программы\ImageBrowserR\ImageBrowserR\First_bitmap_example\obj\x86\Debug\First_bitmap_example.csprojResolveAssemblyReference.cache
+C:\Users\pc\Desktop\не мои программы\ImageBrowserR\ImageBrowserR\First_bitmap_example\obj\x86\Debug\First_bitmap_example.Form1.resources
+C:\Users\pc\Desktop\не мои программы\ImageBrowserR\ImageBrowserR\First_bitmap_example\obj\x86\Debug\First_bitmap_example.Properties.Resources.resources
+C:\Users\pc\Desktop\не мои программы\ImageBrowserR\ImageBrowserR\First_bitmap_example\obj\x86\Debug\First_bitmap_example.csproj.GenerateResource.Cache
