@@ -6,6 +6,7 @@ using System.Drawing;
 using System.Linq;
 using System.Text;
 using System.Windows.Forms;
+using DiscreteCosineTransform;
 
 namespace First_bitmap_example
 {
@@ -63,6 +64,7 @@ namespace First_bitmap_example
             Color c;
             b = true;
             type = 2;
+            HelperMatricDevider devider = new HelperMatricDevider(img);
 
             for (int i = 0; i < img.Width; ++i)
                 for (int j = 0; j < img.Height; ++j)
@@ -81,8 +83,11 @@ namespace First_bitmap_example
                     res4.SetPixel(i, j, Color.FromArgb(x1, x2, x3));
 
                 }
+
             pictureBox2.Image = res2; pictureBox3.Image = res3; pictureBox4.Image = res4;
             pictureBox2.Refresh(); pictureBox3.Refresh(); pictureBox4.Refresh();
+
+         
         }
 
         #endregion

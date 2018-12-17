@@ -52,17 +52,18 @@ namespace BasicQuantizer
                 throw new Exception();
             }
 
+            double[,] result = new double[DCTCoeffInput.GetLength(0), DCTCoeffInput.GetLength(0)];
             int[,] quantizeMatrix = BasicQuantizerMatrix.GetMatrix(quality);
 
             for (int i = 0; i < BasicQuantizerMatrix.DIMENSION; i++)
             {
                 for (int j = 0; j < BasicQuantizerMatrix.DIMENSION; j++)
                 {
-                    DCTCoeffInput[i, j] = Math.Round(DCTCoeffInput[i, j] / quantizeMatrix[i, j]);
+                    result[i, j] = Math.Round(DCTCoeffInput[i, j] / quantizeMatrix[i, j]);
                 }
             }
 
-            return DCTCoeffInput;
+            return result;
         }
 
     }

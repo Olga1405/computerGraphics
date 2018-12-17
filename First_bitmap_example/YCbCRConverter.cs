@@ -6,9 +6,9 @@ namespace Converter
 {
     public class YCbCr
     {
-        double Y;
-        double Cb;
-        double Cr;
+        public double Y;
+        public double Cb;
+        public double Cr;
 
         public YCbCr(double Y, double Cb, double Cr)
         {
