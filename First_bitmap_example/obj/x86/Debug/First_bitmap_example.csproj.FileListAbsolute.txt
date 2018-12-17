@@ -77,3 +77,11 @@ E:\GIT\computerGraphics\First_bitmap_example\obj\x86\Debug\First_bitmap_example.
 E:\GIT\computerGraphics\First_bitmap_example\obj\x86\Debug\First_bitmap_example.pdb
 E:\GIT\computerGraphics\First_bitmap_example\bin\Debug\First_bitmap_example.exe
 E:\GIT\computerGraphics\First_bitmap_example\bin\Debug\First_bitmap_example.pdb
+C:\GIT\computerGraphics\First_bitmap_example\bin\Debug\First_bitmap_example.exe
+C:\GIT\computerGraphics\First_bitmap_example\bin\Debug\First_bitmap_example.pdb
+C:\GIT\computerGraphics\First_bitmap_example\obj\x86\Debug\First_bitmap_example.csprojResolveAssemblyReference.cache
+C:\GIT\computerGraphics\First_bitmap_example\obj\x86\Debug\First_bitmap_example.Form1.resources
+C:\GIT\computerGraphics\First_bitmap_example\obj\x86\Debug\First_bitmap_example.Properties.Resources.resources
+C:\GIT\computerGraphics\First_bitmap_example\obj\x86\Debug\First_bitmap_example.csproj.GenerateResource.Cache
+C:\GIT\computerGraphics\First_bitmap_example\obj\x86\Debug\First_bitmap_example.exe
+C:\GIT\computerGraphics\First_bitmap_example\obj\x86\Debug\First_bitmap_example.pdb

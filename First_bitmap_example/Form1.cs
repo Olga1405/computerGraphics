@@ -57,37 +57,15 @@ namespace First_bitmap_example
         
         private void yCbCrToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            //by = 0.0722; ry = 0.2126
-
-            double c1, c2, c3;
-            Bitmap res2 = new Bitmap(img), res3 = new Bitmap(img), res4 = new Bitmap(img);
-            Color c;
-            b = true;
-            type = 2;
             HelperMatricDevider devider = new HelperMatricDevider(img);
+            Bitmap res2 = devider.iconvert(devider.blocks);
+            Bitmap res3 = devider.iconvertQuoted(devider.blocks);
 
-            for (int i = 0; i < img.Width; ++i)
-                for (int j = 0; j < img.Height; ++j)
-                {
-                    c = img.GetPixel(i, j);
-                    c1 = Convert.ToDouble(c.R);
-                    c2 = Convert.ToDouble(c.G);
-                    c3 = Convert.ToDouble(c.B);
+            pictureBox2.Image = res2; 
+            pictureBox2.Refresh();
 
-                    RGBtoYCbCr(c, out c1, out c2, out c3);
-                    YCbCrtoRGB(c1, 0, 0);
-                    res2.SetPixel(i, j, Color.FromArgb(x1, x2, x3));                   
-                    YCbCrtoRGB(0.5, c2, 0);
-                    res3.SetPixel(i, j, Color.FromArgb(x1, x2, x3));                    
-                    YCbCrtoRGB(0.5, 0, c3);
-                    res4.SetPixel(i, j, Color.FromArgb(x1, x2, x3));
-
-                }
-
-            pictureBox2.Image = res2; pictureBox3.Image = res3; pictureBox4.Image = res4;
-            pictureBox2.Refresh(); pictureBox3.Refresh(); pictureBox4.Refresh();
-
-         
+            pictureBox3.Image = res3;
+            pictureBox3.Refresh();
         }
 
         #endregion
