@@ -68,3 +68,20 @@ C:\Users\pc\Desktop\не мои программы\ImageBrowserR\ImageBrowserR\F
 C:\Users\pc\Desktop\не мои программы\ImageBrowserR\ImageBrowserR\First_bitmap_example\obj\x86\Debug\First_bitmap_example.Form1.resources
 C:\Users\pc\Desktop\не мои программы\ImageBrowserR\ImageBrowserR\First_bitmap_example\obj\x86\Debug\First_bitmap_example.Properties.Resources.resources
 C:\Users\pc\Desktop\не мои программы\ImageBrowserR\ImageBrowserR\First_bitmap_example\obj\x86\Debug\First_bitmap_example.csproj.GenerateResource.Cache
+E:\GIT\computerGraphics\First_bitmap_example\obj\x86\Debug\First_bitmap_example.csprojAssemblyReference.cache
+E:\GIT\computerGraphics\First_bitmap_example\obj\x86\Debug\First_bitmap_example.Form1.resources
+E:\GIT\computerGraphics\First_bitmap_example\obj\x86\Debug\First_bitmap_example.Properties.Resources.resources
+E:\GIT\computerGraphics\First_bitmap_example\obj\x86\Debug\First_bitmap_example.csproj.GenerateResource.cache
+E:\GIT\computerGraphics\First_bitmap_example\obj\x86\Debug\First_bitmap_example.csproj.CoreCompileInputs.cache
+E:\GIT\computerGraphics\First_bitmap_example\obj\x86\Debug\First_bitmap_example.exe
+E:\GIT\computerGraphics\First_bitmap_example\obj\x86\Debug\First_bitmap_example.pdb
+E:\GIT\computerGraphics\First_bitmap_example\bin\Debug\First_bitmap_example.exe
+E:\GIT\computerGraphics\First_bitmap_example\bin\Debug\First_bitmap_example.pdb
+C:\GIT\computerGraphics\First_bitmap_example\bin\Debug\First_bitmap_example.exe
+C:\GIT\computerGraphics\First_bitmap_example\bin\Debug\First_bitmap_example.pdb
+C:\GIT\computerGraphics\First_bitmap_example\obj\x86\Debug\First_bitmap_example.csprojResolveAssemblyReference.cache
+C:\GIT\computerGraphics\First_bitmap_example\obj\x86\Debug\First_bitmap_example.Form1.resources
+C:\GIT\computerGraphics\First_bitmap_example\obj\x86\Debug\First_bitmap_example.Properties.Resources.resources
+C:\GIT\computerGraphics\First_bitmap_example\obj\x86\Debug\First_bitmap_example.csproj.GenerateResource.Cache
+C:\GIT\computerGraphics\First_bitmap_example\obj\x86\Debug\First_bitmap_example.exe
+C:\GIT\computerGraphics\First_bitmap_example\obj\x86\Debug\First_bitmap_example.pdb
